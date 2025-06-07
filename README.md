@@ -35,9 +35,31 @@ https://learn.microsoft.com/en-us/azure/architecture/aws-professional/accounts
 
 ---
 
+# Regions and zones on Azure
+
+
+
+https://learn.microsoft.com/en-us/azure/architecture/aws-professional/regions-zones
+
+-------
+
+# Compare AWS and Azure networking options
+
+## Azure virtual networks and AWS VPCs
+
+
+
+
+https://learn.microsoft.com/en-us/azure/architecture/aws-professional/networking
+
+----
 
 # References
 
 https://learn.microsoft.com/en-us/azure/architecture/aws-professional/
 
 https://learn.microsoft.com/en-us/azure/architecture/aws-professional/accounts
+
+https://learn.microsoft.com/en-us/azure/architecture/aws-professional/regions-zones
+
+https://learn.microsoft.com/en-us/azure/architecture/aws-professional/networking
